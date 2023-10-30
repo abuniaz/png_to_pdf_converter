@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "830324356965",
+    "project_id": "pngtopdf-777aa",
+    "storage_bucket": "pngtopdf-777aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830324356965:android:08e273ac47b0675828138c",
+        "android_client_info": {
+          "package_name": "com.example.png_to_pdf"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCikAZk5pc47juVYyVSG0YoSXVJsimkdz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
